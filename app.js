@@ -687,7 +687,5 @@ if (foundInText) {
 };
 
 });
-client.login("MzEyNTg3MjcxNDE5MzMwNTcw.XRJXcA.2HmbZxF9_iWZ_Tq4g1bQAr0bgX4");
-//MzEyNTg3MjcxNDE5MzMwNTcw.DwQh9A.uC2uZJhvf3EW-H_ncTsBVSE8C38
-//MzkzNDk0NTI3MjE5OTkwNTQw.DwQiDA.1zAY3ENWWY-deu0WRyHZsdLL_FQ
-//NTA0Mjk0MTM3NDkxNjE5ODQw.DwQiXw.hpHAAZJ3A0FCvjO46UuccicoA8I
+client.login(process.env.BOT_TOKEN);
+
