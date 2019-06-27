@@ -37,7 +37,6 @@
     "simple-youtube-api": "^5.0.2",
     "sleep": "^5.1.1",
     "uws": "^10.148.1",
-    "sqlite3": "^4.0.4",
     "ytdl-core": "^0.20.4"
   }
 }
