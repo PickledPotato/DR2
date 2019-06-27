@@ -1,0 +1,50 @@
+{
+    "Charcoal Role": {
+        "name":"Charcoal Role",
+        "type":"Role",
+        "price":"2500",
+        "desc":"Buying this gives you the Charcoal role."
+    },
+    "Coal Role": {
+        "name":"Coal Role",
+        "type":"Role",
+        "price":"5000",
+        "desc":"Buying this gives you the Coal role."
+    },
+    "Copper Role": {
+        "name":"Copper Role",
+        "type":"Role",
+        "price":"7500",
+        "desc":"Buying this gives you the Copper role."
+    },
+    "Bronze Role": {
+        "name":"Bronze Role",
+        "type":"Role",
+        "price":"10000",
+        "desc":"Buying this gives you the Bronze role."
+    },
+    "Iron Role": {
+        "name":"Iron Role",
+        "type":"Role",
+        "price":"12500",
+        "desc":"Buying this gives you the Iron role."
+    },
+    "Silver Role": {
+        "name":"Silver Role",
+        "type":"Role",
+        "price":"15000",
+        "desc":"Buying this gives you the Silver role."
+    },
+    "Gold Role": {
+        "name":"Gold Role",
+        "type":"Role",
+        "price":"17500",
+        "desc":"Buying this gives you the Gold role."
+    },
+    "Diamond Role": {
+        "name":"Diamond Role",
+        "type":"Role",
+        "price":"20000",
+        "desc":"Buying this gives you the Diamond role."
+    }
+}
