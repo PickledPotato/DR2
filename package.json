@@ -3,8 +3,8 @@
   "version": "1.2.5",
   "description": "DRTB/2.0/B",
   "engines": {
-    "node": "10.3.0"
-  },
+  "node": "10.3.0"
+},
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
@@ -12,10 +12,12 @@
   "author": "Luka1711",
   "license": "MIT",
   "dependencies": {
+    "better-sqlite3": "^5.4.0",
     "bufferutil": "^4.0.1",
     "chalk": "^1.1.3",
     "cycle-discord-google-api": "^0.1.4",
     "discord-eco": "0.0.10",
+    "discord.io": "^2.5.3",
     "discord.js": "^11.3.0",
     "erlpack": "github:hammerandchisel/erlpack",
     "ffmpeg-binaries": "^3.2.2-3",
@@ -34,8 +36,12 @@
     "request": "^2.87.0",
     "request-promise-native": "^1.0.5",
     "return-deep-diff": "^0.2.7",
+    "scanf": "^1.0.2",
     "simple-youtube-api": "^5.0.2",
     "sleep": "^5.1.1",
+    "slot-machine": "^2.1.0",
+    "sqlite": "^2.9.2",
+    "sqlite3": "^4.0.4",
     "uws": "^10.148.1",
     "ytdl-core": "^0.20.4"
   }
